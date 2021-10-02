@@ -1,2 +1,1 @@
-# Tugas-01-
-Bagian 1
+# Tugas-01
